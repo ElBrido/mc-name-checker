@@ -1,3 +1,3 @@
-archives_webhook: ''
-available_webhook: ''
-updates_webhook: ''
+archives_webhook: 'https://discord.com/api/webhooks/1410145802390601832/3OSE4_N0Uy0Hyt8IsAO6tSLgeyajRpKzInwow56qAfwFnPdeBBR2DsxeJcDwwUThEOQb'
+available_webhook: 'https://discord.com/api/webhooks/1311522657182810173/TUEl8_NONIV7d37FwhJg_PDoZu_vW7OrCXuYmULpPNPAWuGMaHRldxFM4p4-ENSieeBK'
+updates_webhook: 'https://discord.com/api/webhooks/1410145890231914606/m6FGT0FFEDFQkujY5cEIRBnKaSrnodvcVwlvR-37kjPro1laWBfyFUWWBjD4vgHLvprX'
